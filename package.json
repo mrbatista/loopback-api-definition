@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "js-yaml": "^3.8.1",
-    "loopback-swagger": "^4.0.0"
+    "loopback-swagger": "git+https://github.com/mrbatista/loopback-swagger.git#feat/include-relations"
   },
   "devDependencies": {
     "chai": "^3.5.0",
